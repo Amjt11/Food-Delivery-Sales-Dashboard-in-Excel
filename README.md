@@ -3,17 +3,31 @@
 
 ![]()
 
+---
+
+
  ## Objective
 The goal of this project is to:
+
 ✦ **Analyzing sales data and creating visual charts**
+
 ✦ **Creating charts and formatting with shadow**
+
 ✦ **Formatting and customizing charts and tables in Excel**
+
 ✦ **Creating a dashboard in Excel using separate charts**
+
 ✦ **Creating and using slicers for dynamic data filtering**
+
 ✦ **Connecting and filtering data in Excel charts with slicers.**
+
 ✦ **Creating a pie chart to display percentage of total sales**
+
 ✦ **Creating a connected dashboard in Excel**
+
 ✦ **Calculating highest profit using pivot table.**
+
+---
 
 ## Procedure
 
