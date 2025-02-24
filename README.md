@@ -17,7 +17,7 @@ The goal of this project is to:
 
 ## Procedure
 
-1)Insert Tab-> Pivot Tables. Row = Region, Values = Selling price. 
+1) Insert Tab-> Pivot Tables. Row = Region, Values = Selling price. 
   Create Bar chart.
   
 2) For Top 10 customers: Create Pivot table with Row= CustomerID , values= Selling price(Sum). Go to Filter-> Value Filters -> Top 10.
